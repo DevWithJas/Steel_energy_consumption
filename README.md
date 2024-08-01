@@ -38,3 +38,9 @@ This project focuses on analyzing steel energy consumption data from the `STEEL_
 - Explore the impact of other variables on energy consumption through deeper multivariate analysis.
 
 This project is a comprehensive attempt to understand and optimize energy usage in steel production, crucial for cost reduction and environmental sustainability.
+
+
+
+Power BI Images : 
+
+![Screenshot 2024-08-01 153815](https://github.com/user-attachments/assets/9a2f6191-67e3-4522-9323-b2c6e7eae147)
