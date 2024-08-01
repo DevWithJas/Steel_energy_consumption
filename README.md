@@ -11,6 +11,11 @@ This project focuses on analyzing steel energy consumption data from the `STEEL_
 5. **Correlation Analysis**: Explore relationships between multiple variables using a correlation matrix to guide feature selection for modeling.
 6. **Predictive Modeling**: Use machine learning models to predict anomalies and identify opportunities for optimizing energy management.
 
+![Screenshot 2024-07-31 154128](https://github.com/user-attachments/assets/d3bb2732-457b-4c12-869a-fcc555d328ea) ![Screenshot 2024-07-31 184737](https://github.com/user-attachments/assets/6f720556-0c4d-4917-970a-0b14e66fe731)
+![Screenshot 2024-07-31 113058](https://github.com/user-attachments/assets/58a062d7-5c26-408e-8f4e-be6e5e974cb1)
+
+
+
 #### How to Run
 1. **Setup Environment**:
    - Ensure Python 3.x is installed.
@@ -40,7 +45,6 @@ This project focuses on analyzing steel energy consumption data from the `STEEL_
 This project is a comprehensive attempt to understand and optimize energy usage in steel production, crucial for cost reduction and environmental sustainability.
 
 
-
-Power BI Images : 
+Power BI Image
 
 ![Screenshot 2024-08-01 153815](https://github.com/user-attachments/assets/9a2f6191-67e3-4522-9323-b2c6e7eae147)
