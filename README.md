@@ -54,7 +54,6 @@ This project is a comprehensive attempt to understand and optimize energy usage 
 ## Power BI Image 📊
 ![Screenshot 2024-08-01 153815](https://github.com/user-attachments/assets/9a2f6191-67e3-4522-9323-b2c6e7eae147)
 
----
 
 ![Thank You](https://media.giphy.com/media/fxsqOYnIMEefC/giphy.gif)
-```
+
